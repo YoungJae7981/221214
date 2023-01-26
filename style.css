@@ -1,0 +1,27 @@
+.border {
+  border: 1px solid red;
+}
+
+.block-box p {
+  width: 300px;
+  height: 100px;
+  background-color: blue;
+  color: #fff;
+}
+
+.box {
+  height: 50px;
+  border: 10px solid green;
+}
+
+.margin {
+  border: 5px solid dodgerblue;
+  margin: 30px;
+  padding: 30px;
+}
+
+.inline span {
+  display: block;
+}
+
+

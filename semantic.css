@@ -1,0 +1,15 @@
+.b-weight {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.del {
+  text-decoration: line-through;
+}
+
+.under {
+  text-decoration: underline;
+}
